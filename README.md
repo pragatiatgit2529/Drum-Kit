@@ -1,2 +1,2 @@
 # Drum-Kit
-using HTML, CSS, and JavaScript
+using HTML, CSS,JavaScript, and JQuery
